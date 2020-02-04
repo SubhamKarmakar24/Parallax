@@ -5,28 +5,20 @@
 
 ### Cloning : 
 
-- To clone the Git repository into you PC, ***go to the desired location***, eg D:/    
-- Run this command on your gitbash or Command line      
-	
-	git config --global http.proxy http://172.16.2.30:8080
-- Then run        
-
-	git clone <copy address from Repository>
-- Now ***whenever you start working on the project, configure proxy*** using       
-	
-	git config --global http.proxy http://172.16.2.30:8080 
-- To Pull (i.e. get the latest Code on local system )       
-
-	git pull
-- After making changes, to ***see which files have been changed*** and status of those files, run       
-	
-	git status
-- To stage files for commit, run        
-
-	git add .
-- To commit changes, run         
-
-	git commit -m "A commit message will be here which will help in identifying the change"
-- Finally to push (i.e. to ***upload your latest changes to github***), run          
-
-	git push -u origin master
+> - To clone the Git repository into you PC, ***go to the desired location***, eg D:/    
+> - Run this command on your gitbash or Command line      
+```git config --global http.proxy http://172.16.2.30:8080```
+> - Then run        
+```git clone <copy address from Repository>```
+> - Now ***whenever you start working on the project, configure proxy*** using       
+```git config --global http.proxy http://172.16.2.30:8080``` 
+> - To Pull (i.e. get the latest Code on local system )       
+```git pull```
+> - After making changes, to ***see which files have been changed*** and status of those files, run       
+```git status```
+> - To stage files for commit, run        
+```git add . ```
+> - To commit changes, run         
+```git commit -m "A commit message will be here which will help in identifying the change"```
+> - Finally to push (i.e. to ***upload your latest changes to github***), run          
+```git push -u origin master```
