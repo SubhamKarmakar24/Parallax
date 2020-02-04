@@ -8,43 +8,35 @@ Cloning :
 1)To clone the Git repository into you PC, go to the desired location, eg D:/    
 
 2)Run this command on your gitbash or Command line      
-{
-
+	
 	git config --global http.proxy http://172.16.2.30:8080
-}
+
 3)Then run        
-{
 
 	git clone <copy address from Repository>
-}
+
 4)Now whenever you start working on the project, configure proxy using       
-{
 	
 		git config --global http.proxy http://172.16.2.30:8080 
-}
+		
 5)To Pull (i.e. get the latest Code on local system )       
-{
 
 	git pull
-}
+
 6)After making changes, to see which files have been changed and status of those files, run       
-{
 	
 	git status
-}
+
 7)To stage files for commit, run        
-{
 
 	git add .
-}
+
 
 8)To commit changes, run         
-{
 
 	git commit -m "A commit message will be here which will help in identifying the change"
-}
+
 9)Finally to push (i.e. to upload your latest changes to github), run          
-{
 
 	git push -u origin master
-}
+
