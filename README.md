@@ -6,11 +6,11 @@
 ### Cloning : 
 
 > - To clone the Git repository into you PC, ***go to the desired location***, eg D:/    
-> - Run this command on your gitbash or Command line      
+> - Run this command on your gitbash or Command line **(only while using IIT KGP wifi or lan)**    
 ```git config --global http.proxy http://172.16.2.30:8080```
 > - Then run        
 ```git clone <copy address from Repository>```
-> - Now ***whenever you start working on the project, configure proxy*** using       
+> - Now ***whenever you start working on the project, configure proxy*** **(only while using IIT KGP wifi or lan)** using       
 ```git config --global http.proxy http://172.16.2.30:8080``` 
 > - To Pull (i.e. get the latest Code on local system )       
 ```git pull```
