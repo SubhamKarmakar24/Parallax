@@ -24,4 +24,4 @@
 ```git push -u origin master```
 
 ### Github Readme Formatting Link
-```https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax```
+> https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
