@@ -1,15 +1,15 @@
 # Parallax
 ## Some Parallax Responsive Templates for Beta Website of KTJ
 
-There are **5** folders, each of which consists of a template. All of them have some cool features that can be implemented into our Beta Website. Just **cloning** the repository and **opening the index.html files** of each folder will open the websites.
+> There are **5** folders, each of which consists of a template. All of them have some cool features that can be implemented into our Beta Website. Just **cloning** the repository and **opening the index.html files** of each folder will open the websites.
 
 ## Cloning : 
 
-1)To clone the Git repository into you PC, ***go to the desired location***, eg D:/    
-2)Run this command on your gitbash or Command line      
+- To clone the Git repository into you PC, ***go to the desired location***, eg D:/    
+- Run this command on your gitbash or Command line      
 	
 	git config --global http.proxy http://172.16.2.30:8080
-3)Then run        
+- Then run        
 
 	git clone <copy address from Repository>
 4)Now ***whenever you start working on the project, configure proxy*** using       
