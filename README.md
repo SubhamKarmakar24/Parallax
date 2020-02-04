@@ -22,3 +22,6 @@
 ```git commit -m "A commit message will be here which will help in identifying the change"```
 > - Finally to push (i.e. to ***upload your latest changes to github***), run          
 ```git push -u origin master```
+
+### Github Readme Formatting Link
+```https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax```
